@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    font-family: "Comfortaa", sans-serif;
+    font-size: 1rem;
+    background-color: black;
+    color: white;
+}
+
+hr{
+    margin-bottom: 0.9rem;
+}
+button{
+    font-weight: 700;
+    height: 4rem;
+    width: 12rem;
+    margin-bottom: 0.9rem;
+
+}
+h1{
+    font-weight: bold;
+    color: rgb(167, 247, 246);
+    background-color: rgb(85, 183, 222);
+    transition: 1s;
+    background: transparent;
+    filter: drop-shadow(1px 5px 3px  #00d0ff)
+}
+.uma{
+    height: 2rem;
+    width: 8rem;
+    font-size: 1rem;
+}
